@@ -4,7 +4,7 @@ I decided to create this software because I wanted to learn more about machine l
 
 The software I wrote is not done. Right now I have sections in this program. The first section determines what an image is based on a pre-learned set. The second section can identify things in a video.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/oEUHedmaqGQ)
 
 # Development Environment
 
